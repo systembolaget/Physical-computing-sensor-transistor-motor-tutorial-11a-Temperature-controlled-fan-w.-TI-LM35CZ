@@ -1,6 +1,6 @@
 # Physical computing sensor transistor motor tutorial - Temperature controlled fan with TI LM35CZ
 
-Driving a generic fan from a temperature sensor; hiss and buzz free also at very low speeds by simple manipulation of one of the microcontroller's timers
+No hiss or buzz at low speeds. How to control a fan with a temperature sensor and one of Arduino's timers
 
 ### Result
 
