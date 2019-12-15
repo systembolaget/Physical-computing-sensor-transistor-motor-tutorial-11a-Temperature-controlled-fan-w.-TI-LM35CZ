@@ -19,7 +19,7 @@ byte fanSpeed; // Controls the fan speed via PWM of transistor gate
 
 void setup()
 {
-  // To eliminate the typical whining sound of PWM controlled fans,
+  // To eliminate typical low-speed hiss/buzz of PWM controlled fans,
   // one can change one of the microcontroller's internal timers from
   // the standard frequency of 490Hz or 980Hz to a far higher 31300Hz.
   // For the Metro Mini, it's timer 2 (= TCCR2B) that is set to that
