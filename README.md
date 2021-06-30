@@ -2,9 +2,11 @@
 
 No hiss or buzz at low speeds. How to control a fan with a temperature sensor and one of Arduino's timers
 
-### Result
+### Setup
 
-![](Assets/11a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/11a%20result.jpg)](https://www.youtube.com/watch?v=5suPGERbgvE)
 
 ### Schematic
 
